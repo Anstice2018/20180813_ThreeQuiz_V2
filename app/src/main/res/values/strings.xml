@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">20180813_ThreeQuiz_V2</string>
+
+    <string name="question_1">1 + 1 = ?</string>
+    <string name="question_1_radio_a">A. 1</string>
+    <string name="question_1_radio_b">B. 2</string>
+    <string name="question_1_radio_c">C. 3</string>
+
+    <string name="question_2">1 - 1 = ?</string>
+    <string name="question_2_radio_a">A. 0</string>
+    <string name="question_2_radio_b">B. 1</string>
+    <string name="question_2_radio_c">C. 2</string>
+
+    <string name="question_3">1 * 1 = ?</string>
+    <string name="question_3_radio_a">A. -1</string>
+    <string name="question_3_radio_b">B. 0</string>
+    <string name="question_3_radio_c">C. 1</string>
+
+</resources>
