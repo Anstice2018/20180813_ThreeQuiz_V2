@@ -11,12 +11,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:layout_centerInParent="true"
         android:text="測驗紀錄："
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
     <TextView
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:layout_centerInParent="true"
         android:layout_below="@+id/textView"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"/>
 
