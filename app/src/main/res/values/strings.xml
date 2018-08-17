@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">20180813_ThreeQuiz_V2</string>
+    <string name="app_name">08_ThreeQuiz_V2</string>
 
     <string name="question_1">1 + 1 = ?</string>
     <string name="question_1_radio_a">A. 1</string>
